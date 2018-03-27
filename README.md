@@ -118,4 +118,3 @@ example:
     export class AppModule {
     }
 
-## test_push
